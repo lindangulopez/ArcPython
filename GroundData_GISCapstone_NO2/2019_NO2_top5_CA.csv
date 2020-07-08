@@ -1,0 +1,17 @@
+ID,CBSA,County,Source Name & ID,Latitude,Longitude,AVERAGE,MEDIAN,STDEV,MIN,MAX,Daily Rates & most likely NO2  Air Pollution Sources
+1," Bakersfield, CA",," San Joaquin Valley Unified Air Pollution Control District, Bakersfield-Westwind",35.376953,-119.043889,27.7890455,26.5,9.720059,5.95,77.3,"Agriculture 
+Energy production (Oil-producing)
+- 6 days with ""Unhealthy"" air quality and 2 days with ""Very Unhealthy"" according to the EPA.
+"
+2,"Riverside-San Bernardino-Ontario, CA",,AQS Data Mart,34.030833,-117.61722,,4.83,,,21.6,
+3,"Los Angeles-Long Beach-Anaheim, CA",,"South Coast Air Quality Management District, 06-037-1103",34.06659,-118.22688,,22.766667,,,34.9,
+4," Fresno, CA",,"AQS Data Mart, San Joaquin Valley Unified Air Pollution Control District, 06-019-2016",36.710833,-119.7775,27.070677,31.6,10.672923,12.3,88.7,
+5," San Francisco-Oakland-Hayward, CA",," Bay Area Air Quality Management District, 06-001-0009",37.743065,-122.169935,13.0992505,11.65,8.2910785,1.35,61.8,
+6,"San Diego-Carlsbad, CA",," San Diego County Air Pollution Control District, Camp Pendleton",33.217055,-117.396177,9.3870295,7.5,7.272381,,,
+7,"San Jose-Sunnyvale-Santa Clara, CA",,"Bay Area Air Quality Management District, San Jose - Jackson",37.348497,-121.894898,15.826269,13.65,7.78172975,,59.8,
+8,"Sacramento--Roseville--Arden-Arcade, CA",,"Sacramento County APCD,  Sacramento-Del Paso Manor",38.613779,-121.368014,9.55859,7.5,7.3806255,,51,
+10,"Stockton-Lodi, CA  ",,"California Air Resources Board, 06-077-1002",37.950741,-121.268523,17.883085,15.2,10.829179,3.2,72.3,
+11,"Santa Maria-Santa Barbara, CA",,"California Air Resources Board,  Santa Maria",34.942872,-120.435611,8.854561,7.45,5.2698215,,33.7,
+12,"Oxnard-Thousand Oaks-Ventura, CA",,"Ventura County APCD,  Simi Valley-Cochran Street",34.276316,-118.683685,13.368823,11,8.04950025,,45,
+13,"Merced, CA",,"San Joaquin Valley Unified Air Pollution Control District,  Merced-Coffee",37.281853,-120.433671,11.111692,9.2,6.659660875,1.9,38.7,
+14,"Yuba City, CA",,"Yuba City, CA, AQS Data Mart ",39.1387725442464,-121.618548986224,10.8207625,4.2,7.866773,,45.2,
