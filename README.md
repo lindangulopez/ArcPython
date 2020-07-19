@@ -9,3 +9,5 @@ WATCH OUT: environment & attribution affects outcomes so you will have to adapt 
 
 #i<3GIS
 
+RESPONSE TO COVID19 STARTER KIT: [packaged]( https://arcg.is/1e59af ) & [web map]( https://arcg.is/1qyDTX0) by Linda, July 2020.
+
