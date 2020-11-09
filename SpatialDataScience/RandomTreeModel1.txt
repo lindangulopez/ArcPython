@@ -1,0 +1,47 @@
+Start Time: 09 November 2020 19:44:26
+Random Seed: 471202
+-------------- Model Characteristics ---------------
+Number of Trees                                  100
+Leaf Size                                          5
+Tree Depth Range                               21-34
+Mean Tree Depth                                   26
+% of Training Available per Tree                 100
+Number of Randomly Sampled Variables               1
+% of Training Data Excluded for Validation        10
+
+------------ Model Out of Bag Errors ------------
+Number of Trees                    50          100
+MSE                             0.004        0.004
+% of variation explained       50.595       51.607
+
+------------------------------- Top Variable Importance -------------------------------
+Variable                                                      Importance               %
+2019 Per Capita Income                                              7.04              32
+2019 Education: High School/No Diploma : Percent                    5.93              27
+2019 Median Age                                                     4.99              22
+Own a selfie stick : Percent                                        4.29              19
+
+----- Training Data: Regression Diagnostics ------
+R-Squared                                    0.907
+p-value                                      0.000
+Standard Error                               0.005
+*Predictions for the data used to train the model compared to the observed categories for those features
+
+---- Validation Data: Regression Diagnostics -----
+R-Squared                                    0.531
+p-value                                      0.000
+Standard Error                               0.029
+*Predictions for the test data (excluded from model training) compared to the observed values for those test features
+
+------------------------------------- Explanatory Variable Range Diagnostics ------------------------------------
+                                                   Training              Validation              Training   Validation
+Variable                                           Minimum    Maximum    Minimum      Maximum    Share(a)     Share(b)
+2019 Median Age                                    23.30      61.80      24.40        59.20          1.00        0.90*
+2019 Per Capita Income                             9395.00    78564.00   13765.00     76055.00       1.00        0.90*
+Own a selfie stick : Percent                       1.81       6.91       2.54         6.75           1.00        0.83*
+2019 Education: High School/No Diploma : Percent   0.70       29.79      1.36         22.91          1.00        0.74*
+(a) % of overlap between the ranges of the training data and the input explanatory variable
+(b) % of overlap between the ranges of the validation data and the training data
+*  Data ranges do not coincide. Training or validation is occurring with incomplete data.
++  Ranges of the training data and prediction data do not coincide and the tool is attempting to extrapolate.
+Succeeded at 09 November 2020 19:44:29 (Elapsed Time: 2.91 seconds)
