@@ -1,0 +1,205 @@
+<?xml version = "1.0" standalone = "no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1005" height="378" style="box-sizing: inherit; font-family: Calibri;">
+  <rect id="backgroundRect" width="1005" height="378" x="0" y="0" fill="rgb(255,255,255)" fill-opacity="1" style="box-sizing: inherit;" />
+  <defs style="box-sizing: inherit;" />
+  <clipPath id="chartRect139894" style="box-sizing: inherit;">
+    <rect x="-1" y="-1" width="1007" height="380" style="box-sizing: inherit;" />
+  </clipPath>
+  <g class="wj-header" style="box-sizing: inherit; background: rgb(238, 238, 238); color: rgb(68, 68, 68); font-weight: 700;" clip-path="url(#chartRect139894)">
+    <text x="311.8" y="20.0" fill="rgb(68,68,68)" class="wj-title" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 16pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">Distribution of VOTER_TURNOUT(Predicted)</text>
+  </g>
+  <g class="wj-footer" style="box-sizing: inherit;" clip-path="url(#chartRect139894)" />
+  <clipPath id="legRect635408" style="box-sizing: inherit;">
+    <rect x="890" y="175" width="116" height="54" style="box-sizing: inherit;" />
+  </clipPath>
+  <g class="wj-legend" style="box-sizing: inherit;" clip-path="url(#legRect635408)">
+    <g style="box-sizing: inherit;">
+      <line stroke="rgb(227,36,0)" stroke-width="1" x1="895.3" x2="905.3" y1="189.0" y2="189.0" stroke-opacity="1" style="box-sizing: inherit;" />
+      <text x="909.3" y="194.0" class="wj-label" fill="rgb(68,68,68)" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">Mean : 0.59277</text>
+    </g>
+    <g style="box-sizing: inherit;">
+      <line stroke="rgb(101,158,199)" stroke-width="1" x1="895.3" x2="905.3" y1="215.0" y2="215.0" stroke-opacity="1" style="box-sizing: inherit;" />
+      <text x="909.3" y="220.0" class="wj-label" fill="rgb(68,68,68)" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">Normal Dist.</text>
+    </g>
+  </g>
+  <g class="wj-plot-area" style="box-sizing: inherit;">
+    <rect fill="#000000" stroke-width="1" x="56.9" y="44.0" width="819.0" height="270.2" fill-opacity="0" style="box-sizing: inherit;" />
+  </g>
+  <g class="wj-axis-x" style="box-sizing: inherit;" clip-path="url(#chartRect139894)">
+    <g transform="rotate(-45.0,41.5,332.2)" style="box-sizing: inherit;">
+      <text x="28.8" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.29</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="56.9" x2="56.9" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,77.9,332.2)" style="box-sizing: inherit;">
+      <text x="65.1" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.31</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="93.3" x2="93.3" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,114.3,332.2)" style="box-sizing: inherit;">
+      <text x="101.5" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.34</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="129.7" x2="129.7" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,150.7,332.2)" style="box-sizing: inherit;">
+      <text x="137.9" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.36</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="166.1" x2="166.1" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,187.1,332.2)" style="box-sizing: inherit;">
+      <text x="174.3" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.39</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="202.5" x2="202.5" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,223.5,332.2)" style="box-sizing: inherit;">
+      <text x="210.7" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.41</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="238.9" x2="238.9" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,259.9,332.2)" style="box-sizing: inherit;">
+      <text x="247.1" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.44</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="275.3" x2="275.3" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,296.3,332.2)" style="box-sizing: inherit;">
+      <text x="283.5" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.46</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="311.7" x2="311.7" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,332.7,332.2)" style="box-sizing: inherit;">
+      <text x="319.9" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.49</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="348.1" x2="348.1" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,369.1,332.2)" style="box-sizing: inherit;">
+      <text x="356.3" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.51</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="384.5" x2="384.5" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,405.5,332.2)" style="box-sizing: inherit;">
+      <text x="392.7" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.54</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="420.9" x2="420.9" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,441.9,332.2)" style="box-sizing: inherit;">
+      <text x="429.1" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.56</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="457.3" x2="457.3" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,478.3,332.2)" style="box-sizing: inherit;">
+      <text x="465.5" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.59</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="493.7" x2="493.7" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,514.7,332.2)" style="box-sizing: inherit;">
+      <text x="501.9" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.61</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="530.1" x2="530.1" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,551.1,332.2)" style="box-sizing: inherit;">
+      <text x="538.3" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.64</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="566.5" x2="566.5" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,587.5,332.2)" style="box-sizing: inherit;">
+      <text x="574.7" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.66</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="602.9" x2="602.9" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,623.9,332.2)" style="box-sizing: inherit;">
+      <text x="611.1" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.69</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="639.3" x2="639.3" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,660.3,332.2)" style="box-sizing: inherit;">
+      <text x="647.5" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.71</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="675.7" x2="675.7" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,696.7,332.2)" style="box-sizing: inherit;">
+      <text x="683.9" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.73</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="712.1" x2="712.1" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,733.1,332.2)" style="box-sizing: inherit;">
+      <text x="720.3" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.76</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="748.5" x2="748.5" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,769.5,332.2)" style="box-sizing: inherit;">
+      <text x="756.7" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.78</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="784.9" x2="784.9" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,805.9,332.2)" style="box-sizing: inherit;">
+      <text x="793.1" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.81</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="821.3" x2="821.3" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <g transform="rotate(-45.0,842.3,332.2)" style="box-sizing: inherit;">
+      <text x="829.5" y="337.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.83</text>
+    </g>
+    <line stroke="#666" stroke-width="1" x1="857.7" x2="857.7" y1="314.2" y2="318.2" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <line stroke="rgb(170,170,170)" stroke-width="1px" x1="56.9" x2="875.9" y1="314.2" y2="314.2" class="wj-line" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="372.0" y="374.0" fill="rgb(68,68,68)" class="wj-title" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 12pt; font-family: Calibri; font-style: italic; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">VOTER_TURNOUT(Predicted)</text>
+  </g>
+  <g class="wj-axis-y" style="box-sizing: inherit;" clip-path="url(#chartRect139894)">
+    <text x="36.6" y="319.2" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0</text>
+    <line stroke="rgb(119,119,119)" stroke-width="1px" x1="56.9" x2="875.9" y1="262.7" y2="262.7" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(119, 119, 119); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="29.3" y="267.7" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">40</text>
+    <line stroke="rgb(119,119,119)" stroke-width="1px" x1="56.9" x2="875.9" y1="211.3" y2="211.3" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(119, 119, 119); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="29.3" y="216.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">80</text>
+    <line stroke="rgb(119,119,119)" stroke-width="1px" x1="56.9" x2="875.9" y1="159.8" y2="159.8" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(119, 119, 119); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="22.0" y="164.8" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">120</text>
+    <line stroke="rgb(119,119,119)" stroke-width="1px" x1="56.9" x2="875.9" y1="108.3" y2="108.3" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(119, 119, 119); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="22.0" y="113.3" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">160</text>
+    <line stroke="rgb(119,119,119)" stroke-width="1px" x1="56.9" x2="875.9" y1="56.9" y2="56.9" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(119, 119, 119); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="22.0" y="61.9" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">200</text>
+    <g transform="rotate(-90.0,9.5,179.1)" style="box-sizing: inherit;">
+      <text x="-9.9" y="184.6" fill="rgb(68,68,68)" class="wj-title" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 12pt; font-family: Calibri; font-style: italic; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">Count</text>
+    </g>
+    <line stroke="rgb(170,170,170)" stroke-width="1px" x1="56.9" x2="56.9" y1="44.0" y2="314.2" class="wj-line" stroke-opacity="0" stroke-dasharray="none" style="box-sizing: inherit; stroke: rgba(170, 170, 170, 0); stroke-opacity: 0; stroke-width: 1px; stroke-dasharray: none;" />
+  </g>
+  <g class="wj-series-group" style="box-sizing: inherit;">
+    <g style="box-sizing: inherit;" clip-path="url(#plotRect185521)">
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="56.9" y="312.9" width="18.2" height="1.3" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="75.1" y="314.2" width="18.2" height="0.0" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="93.3" y="314.2" width="18.2" height="0.0" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="111.5" y="314.2" width="18.2" height="0.0" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="129.7" y="314.2" width="18.2" height="0.0" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="147.9" y="310.4" width="18.2" height="3.9" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="166.1" y="309.1" width="18.2" height="5.1" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="184.3" y="303.9" width="18.2" height="10.3" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="202.5" y="302.6" width="18.2" height="11.6" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="220.7" y="297.5" width="18.2" height="16.7" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="238.9" y="291.1" width="18.2" height="23.2" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="257.1" y="294.9" width="18.2" height="19.3" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="275.3" y="265.3" width="18.2" height="48.9" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="293.5" y="256.3" width="18.2" height="57.9" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="311.7" y="228.0" width="18.2" height="86.2" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="329.9" y="222.9" width="18.2" height="91.4" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="348.1" y="195.8" width="18.2" height="118.4" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="366.3" y="171.4" width="18.2" height="142.8" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="384.5" y="141.8" width="18.2" height="172.4" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="402.7" y="132.8" width="18.2" height="181.4" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="420.9" y="118.6" width="18.2" height="195.6" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="439.1" y="101.9" width="18.2" height="212.3" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="457.3" y="92.9" width="18.2" height="221.3" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="475.5" y="56.9" width="18.2" height="257.4" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="493.7" y="85.2" width="18.2" height="229.0" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="511.9" y="82.6" width="18.2" height="231.6" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="530.1" y="89.0" width="18.2" height="225.2" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="548.3" y="110.9" width="18.2" height="203.3" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="566.5" y="100.6" width="18.2" height="213.6" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="584.7" y="125.1" width="18.2" height="189.2" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="602.9" y="150.8" width="18.2" height="163.4" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="621.1" y="145.7" width="18.2" height="168.6" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="639.3" y="194.6" width="18.2" height="119.7" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="657.5" y="226.7" width="18.2" height="87.5" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="675.7" y="225.4" width="18.2" height="88.8" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="693.9" y="262.7" width="18.2" height="51.5" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="712.1" y="269.2" width="18.2" height="45.0" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="730.3" y="284.6" width="18.2" height="29.6" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="748.5" y="288.5" width="18.2" height="25.7" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="766.7" y="292.3" width="18.2" height="21.9" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="784.9" y="306.5" width="18.2" height="7.7" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="803.1" y="301.4" width="18.2" height="12.9" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="821.3" y="306.5" width="18.2" height="7.7" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="839.5" y="311.6" width="18.2" height="2.6" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="857.7" y="311.6" width="18.2" height="2.6" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+    </g>
+    <g style="box-sizing: inherit;">
+      <polyline stroke="rgb(227,36,0)" stroke-width="2" fill="none" points="504.4,314.2 504.4,44.0 " clip-path="url(#plotRect185521)" stroke-opacity="1" style="box-sizing: inherit;" />
+    </g>
+    <g style="box-sizing: inherit;">
+      <polyline stroke="rgb(101,158,199)" stroke-width="2" fill="none" points="56.9,314.0 69.9,313.9 82.9,313.8 95.9,313.6 108.9,313.3 121.9,312.8 134.9,312.3 147.9,311.5 160.9,310.4 173.9,309.0 186.9,307.2 199.9,304.9 212.9,301.9 225.9,298.1 238.9,293.5 251.9,287.9 264.9,281.1 277.9,273.1 290.9,263.8 303.9,253.1 316.9,241.0 329.9,227.6 342.9,212.9 355.9,197.2 368.9,180.7 381.9,163.7 394.9,146.6 407.9,129.7 420.9,113.6 433.9,98.8 446.9,85.6 459.9,74.5 472.9,65.8 485.9,60.0 498.9,57.1 511.9,57.4 524.9,60.7 537.9,67.0 550.9,76.0 563.9,87.5 576.9,101.0 589.9,116.1 602.9,132.3 615.9,149.2 628.9,166.4 641.9,183.3 654.9,199.7 667.9,215.3 680.9,229.7 693.9,242.9 706.9,254.8 719.9,265.3 732.9,274.4 745.9,282.2 758.9,288.8 771.9,294.3 784.9,298.8 797.9,302.4 810.9,305.3 823.9,307.5 836.9,309.3 849.9,310.6 862.9,311.6 875.9,312.4 " clip-path="url(#plotRect185521)" stroke-opacity="1" style="box-sizing: inherit;" />
+    </g>
+  </g>
+  <clipPath id="plotRect185521" style="box-sizing: inherit;">
+    <rect x="56" y="43" width="821" height="272" style="box-sizing: inherit;" />
+  </clipPath>
+  <clipPath id="plotRect228947" style="box-sizing: inherit;">
+    <rect x="-1" y="-1" width="821" height="272" style="box-sizing: inherit;" />
+  </clipPath>
+  <g class="wj-chart-annotationlayer" transform="translate(56.90625, 44)" style="box-sizing: inherit;" clip-path="url(#plotRect228947)" />
+</svg>
