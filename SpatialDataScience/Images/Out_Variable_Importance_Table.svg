@@ -1,0 +1,88 @@
+<?xml version = "1.0" standalone = "no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1006" height="379" style="box-sizing: inherit; font-family: Calibri;">
+  <rect id="backgroundRect" width="1006" height="379" x="0" y="0" fill="rgb(255,255,255)" fill-opacity="1" style="box-sizing: inherit;" />
+  <defs style="box-sizing: inherit;" />
+  <clipPath id="chartRect261565" style="box-sizing: inherit;">
+    <rect x="-1" y="-1" width="1008" height="381" style="box-sizing: inherit;" />
+  </clipPath>
+  <g class="wj-header" style="box-sizing: inherit; background: rgb(238, 238, 238); color: rgb(68, 68, 68); font-weight: 700;" clip-path="url(#chartRect261565)">
+    <text x="446.1" y="20.0" fill="rgb(68,68,68)" class="wj-title" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 16pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">Validation R2</text>
+  </g>
+  <g class="wj-footer" style="box-sizing: inherit;" clip-path="url(#chartRect261565)" />
+  <clipPath id="legRect135113" style="box-sizing: inherit;">
+    <rect x="880" y="163" width="127" height="80" style="box-sizing: inherit;" />
+  </clipPath>
+  <g class="wj-legend" style="box-sizing: inherit;" clip-path="url(#legRect135113)">
+    <g style="box-sizing: inherit;">
+      <line stroke="rgb(227,36,0)" stroke-width="1" x1="885.4" x2="895.4" y1="176.5" y2="176.5" stroke-opacity="1" style="box-sizing: inherit;" />
+      <text x="899.4" y="181.5" class="wj-label" fill="rgb(68,68,68)" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">Mean : 0.52231</text>
+    </g>
+    <g style="box-sizing: inherit;">
+      <line stroke="rgb(144,66,159)" stroke-width="1" x1="885.4" x2="895.4" y1="202.5" y2="202.5" stroke-opacity="1" style="box-sizing: inherit;" />
+      <text x="899.4" y="207.5" class="wj-label" fill="rgb(68,68,68)" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">Median : 0.51906</text>
+    </g>
+    <g style="box-sizing: inherit;">
+      <line stroke="rgb(192,154,98)" stroke-width="1" x1="885.4" x2="895.4" y1="228.5" y2="228.5" stroke-opacity="1" style="box-sizing: inherit;" />
+      <text x="899.4" y="233.5" class="wj-label" fill="rgb(68,68,68)" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">StdDev : 0.04523</text>
+    </g>
+  </g>
+  <g class="wj-plot-area" style="box-sizing: inherit;">
+    <rect fill="#000000" stroke-width="1" x="65.0" y="44.0" width="803.7" height="284.0" fill-opacity="0" style="box-sizing: inherit;" />
+  </g>
+  <g class="wj-axis-x" style="box-sizing: inherit;" clip-path="url(#chartRect261565)">
+    <text x="52.2" y="351.0" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.44</text>
+    <line stroke="#666" stroke-width="1" x1="65.0" x2="65.0" y1="328.0" y2="332.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="253.1" y="351.0" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.48</text>
+    <line stroke="#666" stroke-width="1" x1="265.9" x2="265.9" y1="328.0" y2="332.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="454.0" y="351.0" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.52</text>
+    <line stroke="#666" stroke-width="1" x1="466.8" x2="466.8" y1="328.0" y2="332.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="654.9" y="351.0" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.56</text>
+    <line stroke="#666" stroke-width="1" x1="667.7" x2="667.7" y1="328.0" y2="332.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="859.5" y="351.0" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0.6</text>
+    <line stroke="#666" stroke-width="1" x1="868.6" x2="868.6" y1="328.0" y2="332.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <line stroke="rgb(170,170,170)" stroke-width="1px" x1="65.0" x2="868.6" y1="328.0" y2="328.0" class="wj-line" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="458.4" y="375.0" fill="rgb(68,68,68)" class="wj-title" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 12pt; font-family: Calibri; font-style: italic; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">R2</text>
+  </g>
+  <g class="wj-axis-y" style="box-sizing: inherit;" clip-path="url(#chartRect261565)">
+    <text x="44.6" y="333.0" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">0</text>
+    <line stroke="rgb(119,119,119)" stroke-width="1px" x1="65.0" x2="868.6" y1="260.4" y2="260.4" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(119, 119, 119); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="44.6" y="265.4" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">1</text>
+    <line stroke="rgb(119,119,119)" stroke-width="1px" x1="65.0" x2="868.6" y1="192.8" y2="192.8" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(119, 119, 119); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="44.6" y="197.8" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">2</text>
+    <line stroke="rgb(119,119,119)" stroke-width="1px" x1="65.0" x2="868.6" y1="125.1" y2="125.1" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(119, 119, 119); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="44.6" y="130.1" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">3</text>
+    <line stroke="rgb(119,119,119)" stroke-width="1px" x1="65.0" x2="868.6" y1="57.5" y2="57.5" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(119, 119, 119); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="44.6" y="62.5" fill="rgb(68,68,68)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10.8pt; font-family: Calibri; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">4</text>
+    <g transform="rotate(-90.0,9.5,186.0)" style="box-sizing: inherit;">
+      <text x="-15.1" y="191.5" fill="rgb(68,68,68)" class="wj-title" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 12pt; font-family: Calibri; font-style: italic; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">COUNT</text>
+    </g>
+    <line stroke="rgb(170,170,170)" stroke-width="1px" x1="65.0" x2="65.0" y1="44.0" y2="328.0" class="wj-line" stroke-opacity="0" stroke-dasharray="none" style="box-sizing: inherit; stroke: rgba(170, 170, 170, 0); stroke-opacity: 0; stroke-width: 1px; stroke-dasharray: none;" />
+  </g>
+  <g class="wj-series-group" style="box-sizing: inherit;">
+    <g style="box-sizing: inherit;" clip-path="url(#plotRect852701)">
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="65.0" y="260.4" width="200.9" height="67.6" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="265.9" y="57.5" width="200.9" height="270.5" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="466.8" y="125.1" width="200.9" height="202.9" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+      <rect fill="rgb(166,206,227)" stroke="rgb(166,206,227)" x="667.7" y="192.8" width="200.9" height="135.2" fill-opacity="0.7" stroke-opacity="0.7" style="box-sizing: inherit;" />
+    </g>
+    <g style="box-sizing: inherit;">
+      <polyline stroke="rgb(227,36,0)" stroke-width="2" fill="none" points="481.2,328.0 481.2,44.0 " clip-path="url(#plotRect852701)" stroke-opacity="1" style="box-sizing: inherit;" />
+    </g>
+    <g style="box-sizing: inherit;">
+      <polyline stroke="rgb(144,66,159)" stroke-width="2" fill="none" points="465.6,328.0 465.6,44.0 " clip-path="url(#plotRect852701)" stroke-opacity="1" style="box-sizing: inherit;" />
+    </g>
+    <g style="box-sizing: inherit;">
+      <polyline stroke="rgb(192,154,98)" stroke-width="2" fill="none" points="264.1,328.0 264.1,44.0 " clip-path="url(#plotRect852701)" stroke-opacity="1" style="box-sizing: inherit;" />
+      <polyline stroke="rgb(192,154,98)" stroke-width="2" fill="none" points="698.3,328.0 698.3,44.0 " clip-path="url(#plotRect852701)" stroke-opacity="1" style="box-sizing: inherit;" />
+    </g>
+  </g>
+  <clipPath id="plotRect852701" style="box-sizing: inherit;">
+    <rect x="64" y="43" width="806" height="286" style="box-sizing: inherit;" />
+  </clipPath>
+  <clipPath id="plotRect48067" style="box-sizing: inherit;">
+    <rect x="-1" y="-1" width="806" height="286" style="box-sizing: inherit;" />
+  </clipPath>
+  <g class="wj-chart-annotationlayer" transform="translate(64.953125, 44)" style="box-sizing: inherit;" clip-path="url(#plotRect48067)" />
+</svg>
