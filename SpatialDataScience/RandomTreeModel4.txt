@@ -1,0 +1,120 @@
+Start Time: 10 November 2020 17:06:28
+Random Seed: 711626
+-------------- Model Characteristics ---------------
+Number of Trees                                  100
+Leaf Size                                          5
+Tree Depth Range                               22-52
+Mean Tree Depth                                   28
+% of Training Available per Tree                 100
+Number of Randomly Sampled Variables               1
+% of Training Data Excluded for Validation         0
+
+------------ Model Out of Bag Errors ------------
+Number of Trees                    50          100
+MSE                             0.007        0.007
+% of variation explained       18.158       18.326
+
+------------------------------- Top Variable Importance --------------------------------
+Variable                                                      Importance                %
+2019 Education: High School/No Diploma : Percent                   18.92              100
+
+----- Training Data: Regression Diagnostics ------
+R-Squared                                    0.599
+p-value                                      0.000
+Standard Error                               0.008
+*Predictions for the data used to train the model compared to the observed categories for those features
+
+
+------------------------------------ Explanatory Variable Range Diagnostics -----------------------------------
+                                                   Training             Prediction             Training   Prediction
+Variable                                           Minimum    Maximum   Minimum      Maximum   Share(a)     Share(c)
+2019 Education: High School/No Diploma : Percent   0.70       29.79     0.00         78.50         1.00        2.70+
+(a) % of overlap between the ranges of the training data and the input explanatory variable
+(c) % of overlap between the ranges of the training data and the prediction data
+*  Data ranges do not coincide. Training or validation is occurring with incomplete data.
++  Ranges of the training data and prediction data do not coincide and the tool is attempting to extrapolate.
+
+Succeeded at 10 November 2020 17:07:19 (Elapsed Time: 51.40 seconds)
+At 500 trees
+Random Seed: 724666
+
+
+-------------- Model Characteristics ---------------
+Number of Trees                                  500
+Leaf Size                                          5
+Tree Depth Range                               19-48
+Mean Tree Depth                                   28
+% of Training Available per Tree                 100
+Number of Randomly Sampled Variables               1
+% of Training Data Excluded for Validation         0
+
+
+------------ Model Out of Bag Errors ------------
+Number of Trees                   250          500
+MSE                             0.007        0.007
+% of variation explained       18.670       18.673
+
+
+------------------------------- Top Variable Importance --------------------------------
+Variable                                                      Importance                %
+2019 Education: High School/No Diploma : Percent                   18.90              100
+
+
+----- Training Data: Regression Diagnostics ------
+R-Squared                                    0.600
+p-value                                      0.000
+Standard Error                               0.008
+*Predictions for the data used to train the model compared to the observed categories for those features
+
+
+
+
+------------------------------------ Explanatory Variable Range Diagnostics -----------------------------------
+                                                   Training             Prediction             Training   Prediction
+Variable                                           Minimum    Maximum   Minimum      Maximum   Share(a)     Share(c)
+2019 Education: High School/No Diploma : Percent   0.70       29.79     0.00         78.50         1.00        2.70+
+(a) % of overlap between the ranges of the training data and the input explanatory variable
+(c) % of overlap between the ranges of the training data and the prediction data
+*  Data ranges do not coincide. Training or validation is occurring with incomplete data.
+
+
++  Ranges of the training data and prediction data do not coincide and the tool is 
+attempting to extrapolate.
+At 1000 trees
+Start Time: 10 November 2020 17:24:04
+Random Seed: 724666
+-------------- Model Characteristics ---------------
+Number of Trees                                 1000
+Leaf Size                                          5
+Tree Depth Range                               19-48
+Mean Tree Depth                                   28
+% of Training Available per Tree                 100
+Number of Randomly Sampled Variables               1
+% of Training Data Excluded for Validation         0
+
+------------ Model Out of Bag Errors ------------
+Number of Trees                   500         1000
+MSE                             0.007        0.007
+% of variation explained       18.677       18.779
+
+------------------------------- Top Variable Importance --------------------------------
+Variable                                                      Importance                %
+2019 Education: High School/No Diploma : Percent                   18.92              100
+
+----- Training Data: Regression Diagnostics ------
+R-Squared                                    0.601
+p-value                                      0.000
+Standard Error                               0.008
+*Predictions for the data used to train the model compared to the observed categories for those features
+
+
+------------------------------------ Explanatory Variable Range Diagnostics -----------------------------------
+                                                   Training             Prediction             Training   Prediction
+Variable                                           Minimum    Maximum   Minimum      Maximum   Share(a)     Share(c)
+2019 Education: High School/No Diploma : Percent   0.70       29.79     0.00         78.50         1.00        2.70+
+(a) % of overlap between the ranges of the training data and the input explanatory variable
+(c) % of overlap between the ranges of the training data and the prediction data
+*  Data ranges do not coincide. Training or validation is occurring with incomplete data.
++  Ranges of the training data and prediction data do not coincide and the tool is attempting to extrapolate.
+
+Succeeded at 10 November 2020 17:25:58 (Elapsed Time: 1 minutes 54 seconds)
