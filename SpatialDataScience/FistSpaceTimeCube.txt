@@ -1,0 +1,59 @@
+ WARNING 000642: Problems reading 28 of 52785 total records.
+ WARNING 110088: Related table rows with bad records (only includes first 30): OBJECTID = 18431, 21932, 21933, 21937, 23563, 23564, 23565, 23566, 23568, 23569, 23570, 23572, 31383, 31384, 31385, 32335, 44747, 44754, 44881, 44882, 44883, 44884, 44886, 44887, 44888, 44889, 52752, 52773.
+ WARNING 110067: Your spatial reference is not compatible with CF Conventions.  You may experience difficulties using the resulting space-time cube with other NetCDF tools and software.
+ 
+ Input Features	US_Counties
+Output Space Time Cube	D:\GIS\PatternDetection_SpaceTime\US_SNAPRate_1Yr_STN.nc
+Location ID	CountyID
+Temporal Aggregation	NO_TEMPORAL_AGGREGATION
+Time Field	TimeofYear
+Time Step Interval	1 Years
+Time Step Alignment	END_TIME
+Reference Time	
+Variables	SNAPRate SPACE_TIME_NEIGHBORS
+Summary Fields	
+Related Table	SNAP_County_Rates
+Related Location ID	CountyID
+
+Start Time: 22 November 2020 18:26:18
+WARNING 000642: Problems reading 28 of 52785 total records.
+WARNING 110088: Related table rows with bad records (only includes first 30): OBJECTID = 18431, 21932, 21933, 21937, 23563, 23564, 23565, 23566, 23568, 23569, 23570, 23572, 31383, 31384, 31385, 32335, 44747, 44754, 44881, 44882, 44883, 44884, 44886, 44887, 44888, 44889, 52752, 52773.
+WARNING 110067: Your spatial reference is not compatible with CF Conventions.  You may experience difficulties using the resulting space-time cube with other NetCDF tools and software.
+---------- Space Time Cube Characteristics -----------
+Input feature time extent          2000-01-01 00:00:00
+                                to 2016-01-01 00:00:00
+                                                      
+Number of time steps                                17
+Time step interval                              1 year
+Time step alignment                                End
+                                                      
+First time step temporal bias                    0.00%
+First time step interval                         after
+                                   1999-01-01 00:00:00
+                                       to on or before
+                                   2000-01-01 00:00:00
+                                                      
+Last time step temporal bias                     0.00%
+Last time step interval                          after
+                                   2015-01-01 00:00:00
+                                       to on or before
+                                   2016-01-01 00:00:00
+                                                      
+Cube extent across space       (coordinates in meters)
+Min X                                    -2366953.2425
+Min Y                                    -1506676.3226
+Max X                                     2263973.8097
+Max Y                                     1411786.6485
+
+Locations                                          3105
+% of locations with estimated observations         0.29
+- Total number                                        9
+Total observations                                52785
+% of all observations that were estimated          0.05
+- Total number                                       28
+
+ Overall Data Trend - SNAPRATE_NONE_SPACE_TIME_NEIGHBORS 
+Trend direction                             Increasing
+Trend statistic                                 4.0781
+Trend p-value                                   0.0000
+Succeeded at 22 November 2020 18:27:26 (Elapsed Time: 1 minutes 7 seconds)
