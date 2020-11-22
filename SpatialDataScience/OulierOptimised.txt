@@ -1,0 +1,40 @@
+Input Features	US_Counties
+Output Features	C:\Users\angul\Documents\ArcGIS\Packages\PatternDetection_SpaceTime_9a6ac0\p20\patterndetection_spacetime.gdb\SNAPOutliers
+Analysis Field	SNAPRate
+Incident Data Aggregation Method	COUNT_INCIDENTS_WITHIN_FISHNET_POLYGONS
+Bounding Polygons Defining Where Incidents Are Possible	
+Polygons For Aggregating Incidents Into Counts	
+Performance Adjustment	BALANCED_499
+Cell Size	
+Distance Band	75 Kilometers
+
+
+Start Time: 22 November 2020 16:57:22
+************************** Initial Data Assessment ***************************
+Making sure there are enough weighted features for analysis....
+- There are 3105 valid input features.
+Evaluating the Analysis Field values....
+- SNAPRATE Properties:
+        Min:       0.0048
+        Max:       0.5763
+        Mean:      0.1393
+        Std. Dev.: 0.0702
+Looking for locational outliers....
+- There were 64 outlier locations; these will not be used to compute the optimal fixed distance band.
+***************************** Scale of Analysis ******************************
+- The Neighborhood Distance used was 75 Kilometers.
+************************* Optimized Outlier Analysis *************************
+Creating the random reference distribution with 499 permutations....
+Finding statistically significant outliers of high and low SNAPRATE values....
+- There are 1041 output features statistically significant based on an FDR correction for multiple testing and spatial dependence.
+- There are 34 statistically significant high outlier features.
+- There are 32 statistically significant low outlier features.
+- There are 540 features part of statistically significant low clusters.
+- There are 435 features part of statistically significant high clusters
+- 38% of features had less than 8 neighbors based on the distance band of 75 Kilometers
+*********************************** Output ***********************************
+- Pink output features are part of a cluster of high SNAPRATE values.
+- Light Blue output features are part of a cluster of low SNAPRATE values.
+- Red output features represent high outliers within a cluster of low SNAPRATE values..
+- Blue output features represent low outliers within a cluster of high SNAPRATE values.
+Succeeded at 22 November 2020 16:57:30 (Elapsed Time: 8.63 seconds)
