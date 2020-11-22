@@ -1,0 +1,40 @@
+Input Features	US_Counties
+Output Features	D:\GIS\PatternDetection_SpaceTime\SNAPHotSpots.shp
+Analysis Field	SNAPRate
+Incident Data Aggregation Method	COUNT_INCIDENTS_WITHIN_FISHNET_POLYGONS
+Bounding Polygons Defining Where Incidents Are Possible	
+Polygons For Aggregating Incidents Into Counts	
+Density Surface	
+Cell Size	
+Distance Band	(150km) 
+k=30
+
+
+
+Start Time: 22 November 2020 16:38:39
+************************** Initial Data Assessment ***************************
+Making sure there are enough weighted features for analysis....
+- There are 3105 valid input features.
+Evaluating the Analysis Field values....
+- SNAPRATE Properties:
+        Min:       0.0048
+        Max:       0.5763
+        Mean:      0.1393
+        Std. Dev.: 0.0702
+Looking for locational outliers....
+- There were 64 outlier locations; these will not be used to compute the optimal fixed distance band.
+***************************** Scale of Analysis ******************************
+Looking for an optimal scale of analysis by assessing the intensity of clustering at increasing distances....
+- No optimal distance was found using this method.
+Determining an optimal distance using the spatial distribution of features....
+- The optimal fixed distance band is based on the average distance to 30 nearest neighbors: 151156.0000 Meters
+***************************** Hot Spot Analysis ******************************
+Finding statistically significant clusters of high and low SNAPRATE values....
+- There are 2131 output features statistically significant based on an FDR correction for multiple testing and spatial dependence.
+- 3.3% of features had less than 8 neighbors based on the distance band of 151156.0000 Meters
+*********************************** Output ***********************************
+Creating output feature class: D:\GIS\PatternDetection_SpaceTime\SNAPHotSpots.shp
+- Red output features represent hot spots where high SNAPRATE values cluster.
+- Blue output features represent cold spots where low SNAPRATE values cluster.
+Succeeded at 22 November 2020 16:39:33 (Elapsed Time: 53.49 seconds)
+
