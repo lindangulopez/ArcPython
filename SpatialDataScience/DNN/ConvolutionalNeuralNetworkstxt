@@ -1,0 +1,16 @@
+Deep learning
+
+When working with large collections of imagery, at some point machine learning starts to plateau, and this is really 
+where deep learning brings a lot of value. It's based on neural networks that contain code structures that are stored 
+as layers. When applied to spatial information imagery, the work tends to fall into four main categories: (i) object 
+detection, (ii) instance segmentation, (iii) image classification, and (iv) pixel classification.
+
+Images are analyzed as pixels, which are the input image. They are multiplied by the filter in groups and combined to 
+create a new pixel value in the activation map.  The filter slides, or convolves, over the entire input image and creates
+an activation map output.  Convolutional neural networks are used as filters, for image analysis, each neuron looks for 
+a specific trait, activating a different part of the image.
+
+For example starting with simple features, such as lines or edges, and progressing to abstract combinations of patterns 
+as the network gets deeper. As the model is trained, it iterates between running the training examples through the network 
+of filters, generating a prediction, comparing the predicted value to the actual value, then adjusting the filters slightly
+to get the predicted value closer to the actual value.
