@@ -1,0 +1,43 @@
+{
+  "Version" : 1,
+  "NumBands" : 3,
+  "TileSizeX" : 256,
+  "TileSizeY" : 256,
+  "NumClasses" : 1,
+  "NumTiles" : 1381,
+  "OutputFeatures" : true,
+  "MetaDataMode" : "PASCAL_VOC_rectangles",
+  "Classes" : [
+    {
+      "ClassValue" : 0,
+      "ClassName" : "0"
+    }
+  ],
+  "FeatureStats" : {
+    "NumClasses" : 1,
+    "NumImagesTotal" : 1381,
+    "NumFeaturesTotal" : 7081,
+    "NumImagesPerClass" : [
+      1381
+    ],
+    "NumFeaturesPerClass" : [
+      7081
+    ],
+    "NumFeaturesPerImage" : {
+      "Min" : 1,
+      "Max" : 20,
+      "Mean" : 5.1274438812454743,
+      "Sum" : 7081,
+      "Count" : 1381
+    },
+    "FeatureAreaPerClass" : [
+      {
+        "Min" : 37.78326687117832,
+        "Max" : 113.09733552923255,
+        "Mean" : 110.88355109531211,
+        "Sum" : 785166.42530590505,
+        "Count" : 7081
+      }
+    ]
+  }
+}
